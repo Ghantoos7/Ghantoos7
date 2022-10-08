@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Ghantoos <img src=https://uploads.scratch.mit.edu/get_image/gallery/1751058_200x130.png height = 120 width = 120 align="bottom" ></h1>
-<h3 align="center">A computer science student who's interested in data science</h3>
+<h1 align="left">Hello, I'm Ghantoos <img src=https://uploads.scratch.mit.edu/get_image/gallery/1751058_200x130.png height = 120 width = 120 align="bottom" ></h1>
+<h4 align="left">A computer science student who's interested in data science </h4>
 
 
 
