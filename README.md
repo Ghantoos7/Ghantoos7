@@ -6,7 +6,7 @@
 
 . 🌱 I’m currently learning **React Native**
 
-. <img src ="https://cdn.imgbin.com/12/14/11/imgbin-minecraft-mods-minecraft-mods-book-enderman-others-URHwvspvNNJUcCCLuVkFcB7bF.jpg" width=25 height= 25> Ask me about **anything algorithms**
+. <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/55/Enchanted_Book.gif/revision/latest?cb=20200428014446" width=25 height= 25> Ask me about **anything algorithms**
 
 . 📫 How to reach me **https://www.linkedin.com/in/georgio-ghnatios-33a295222/**
 
