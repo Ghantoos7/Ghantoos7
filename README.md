@@ -1,6 +1,6 @@
-<h1 align="center">Hi , I'm Ghantoos</h1>
+<h1 align="center">Hello <img src=https://uploads.scratch.mit.edu/get_image/gallery/1751058_200x130.png> , I'm Ghantoos</h1>
 <h3 align="center">A computer science student who's interested in data science</h3>
-<img src=https://uploads.scratch.mit.edu/get_image/gallery/1751058_200x130.png>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghantoos7&label=Profile%20views&color=0e75b6&style=flat" alt="ghantoos7" /> </p>
 
