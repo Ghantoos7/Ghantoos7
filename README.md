@@ -2,7 +2,7 @@
 <h4 align="left">A computer science student who's interested in data science </h4>
 
 
-. 🔭 I’m currently working as **a coding instructor**
+. <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/13/Enchanted_Diamond_Pickaxe.gif/revision/latest?cb=20201118111642" width=25 height= 25 align="top"> I’m currently working as **a coding instructor**
 
 . 🌱 I’m currently learning **React Native**
 
