@@ -10,7 +10,7 @@
 
 . <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/00/Map_%28item%29_JE1_BE1.png/revision/latest?cb=20200128083921" width=25 height= 25 align="top"> How to reach me **https://www.linkedin.com/in/georgio-ghnatios-33a295222/**
 
-<h1 align="left">Languages and Tools <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c1/Enchanted_Diamond_Shovel.gif/revision/latest?cb=20201118111657" width=70 height= 70 align="top"> </h1>
+<h1 align="left">Languages and Tools <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c1/Enchanted_Diamond_Shovel.gif/revision/latest?cb=20201118111657" width=120 height= 120 align="bottom"> </h1>
 <h4>Languages<h4>
 <a><p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 
