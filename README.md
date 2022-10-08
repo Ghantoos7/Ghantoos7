@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src=https://uploads.scratch.mit.edu/get_image/gallery/1751058_200x130.png align= bottom> , I'm Ghantoos</h1>
+<h1 align="center">Hello <img src=https://uploads.scratch.mit.edu/get_image/gallery/1751058_200x130.png align= "bottom"> , I'm Ghantoos</h1>
 <h3 align="center">A computer science student who's interested in data science</h3>
 
 
