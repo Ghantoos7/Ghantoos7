@@ -2,13 +2,13 @@
 <h4 align="left">A computer science student who's interested in data science </h4>
 
 
-- 🔭 I’m currently working as **a coding instructor**
+. 🔭 I’m currently working as **a coding instructor**
 
-- 🌱 I’m currently learning **React Native**
+. 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **anything algorithms**
+. <img src ="https://i.pinimg.com/originals/12/fc/14/12fc14e870fec8f8a9ca0b6dd78ccd14.jpg" Ask me about **anything algorithms**
 
-- 📫 How to reach me **https://www.linkedin.com/in/georgio-ghnatios-33a295222/**
+. 📫 How to reach me **https://www.linkedin.com/in/georgio-ghnatios-33a295222/**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghantoos7&label=Profile%20views&color=0e75b6&style=flat" alt="ghantoos7" /> </p>
