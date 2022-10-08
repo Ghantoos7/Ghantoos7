@@ -4,7 +4,7 @@
 
 . <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/13/Enchanted_Diamond_Pickaxe.gif/revision/latest?cb=20201118111642" width=25 height= 25 align="top"> I’m currently working as **a coding instructor**
 
-. 🌱 I’m currently learning **React Native**
+. <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/50/Book_JE2_BE2.png/revision/latest?cb=20210427032255" width=25 height= 25 align="top"> I’m currently learning **React Native**
 
 . <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/55/Enchanted_Book.gif/revision/latest?cb=20200428014446" width=25 height= 25 align="top"> Ask me about **anything algorithms**
 
