@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Ghantoos</h1>
 <h3 align="center">A computer science student who's interested in data science</h3>
-<img src=https://i.pinimg.com/originals/31/d3/53/31d3538aed2bdc583bd18b082760300c.gif>
+<img src=[https://i.pinimg.com/originals/31/d3/53/31d3538aed2bdc583bd18b082760300c.gif](https://cliply.co/wp-content/uploads/2021/10/CLIPLY_432110180_CAT_PAW_WAVING_400px.gif)>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghantoos7&label=Profile%20views&color=0e75b6&style=flat" alt="ghantoos7" /> </p>
 
