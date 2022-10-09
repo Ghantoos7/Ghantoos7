@@ -2,13 +2,13 @@ _<h1 align="left">Hello, I'm Ghantoos <img src=https://uploads.scratch.mit.edu/g
 <h4 align="left">A computer science student who's interested in data science </h4>
 
 
-        . <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/13/Enchanted_Diamond_Pickaxe.gif/revision/latest?cb=20201118111642" width=25 height= 25 align="top"> I’m currently working as **a coding instructor**
+. <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/13/Enchanted_Diamond_Pickaxe.gif/revision/latest?cb=20201118111642" width=25 height= 25 align="top"> I’m currently working as **a coding instructor**>
 
-        . <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/50/Book_JE2_BE2.png/revision/latest?cb=20210427032255" width=25 height= 25 align="top"> I’m currently learning **React Native**
+. <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/50/Book_JE2_BE2.png/revision/latest?cb=20210427032255" width=25 height= 25 align="top"> I’m currently learning **React Native**>
 
-        . <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/55/Enchanted_Book.gif/revision/latest?cb=20200428014446" width=25 height= 25 align="top"> Ask me about **anything algorithms**
+. <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/55/Enchanted_Book.gif/revision/latest?cb=20200428014446" width=25 height= 25 align="top"> Ask me about **anything algorithms**>
 
-        . <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/00/Map_%28item%29_JE1_BE1.png/revision/latest?cb=20200128083921" width=25 height= 25 align="top"> How to reach me **https://www.linkedin.com/in/georgio-ghnatios-33a295222/**
+. <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/00/Map_%28item%29_JE1_BE1.png/revision/latest?cb=20200128083921" width=25 height= 25 align="top"> How to reach me **https://www.linkedin.com/in/georgio-ghnatios-33a295222/**>
 
 
 
