@@ -52,22 +52,3 @@
  <a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghantoos7&show_icons=true&locale=en&layout=compact&theme=midnight-purple&title_color=FF0000&amp&text_color=FFFFFF&amp&icon_color=FF0000&hide_border=true&count_private=true" alt="ghantoos7" /></a>
  <a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghantoos7&show_icons=true&locale=en&theme=midnight-purple&title_color=FF0000&amp&text_color=FFFFFF&amp&icon_color=FF0000&hide_border=true&count_private=true" alt="ghantoos7 " width = 460/></a>
 </p>
-
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
-
- 
-
-
- 
- 
-
