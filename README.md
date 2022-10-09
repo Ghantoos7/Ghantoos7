@@ -38,7 +38,7 @@
 <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/></a>
 
 
-<h1 align="left">Stats <img src =" https://video-public.canva.com/VAECoXFMuLI/v/26f0679e6a.gif" width=45 height= 45 align="bottom"><h1>
+<h1 align="left">Stats <img src ="https://video-public.canva.com/VAECoXFMuLI/v/26f0679e6a.gif" width=45 height= 45 align="bottom"><h1>
  
  
 
