@@ -2,6 +2,8 @@
 <h4 align="left">A computer science student who's interested in data science </h4>
 
 
+
+
 . <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/13/Enchanted_Diamond_Pickaxe.gif/revision/latest?cb=20201118111642" width=25 height= 25 align="top"> I’m currently working as **a coding instructor**
 
 . <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/50/Book_JE2_BE2.png/revision/latest?cb=20210427032255" width=25 height= 25 align="top"> I’m currently learning **React Native**
@@ -46,6 +48,19 @@
 <a href="https://github.com/Ghantoos7" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="Ghantoos7" height="30" width="40" /></a></p>
   
 <h1 align="left">Stats <img src ="https://im2.ezgif.com/tmp/ezgif-2-64bcd96233.gif" width=45 height= 45 align="bottom"><h1>
+ 
+ <p align="center">
+<img align="middle" src="https://im4.ezgif.com/tmp/ezgif-4-2a0ec4f646.gif"/>
+<img align="middle" src="https://im4.ezgif.com/tmp/ezgif-4-2a0ec4f646.gif"/>
+ <img align="middle" src="https://im4.ezgif.com/tmp/ezgif-4-2a0ec4f646.gif"/>
+ <img align="middle" src="https://im4.ezgif.com/tmp/ezgif-4-2a0ec4f646.gif"/>
+ <img align="middle" src="https://im4.ezgif.com/tmp/ezgif-4-2a0ec4f646.gif"/>
+ <img align="middle" src="https://im4.ezgif.com/tmp/ezgif-4-2a0ec4f646.gif"/>
+ <img align="middle" src="https://im4.ezgif.com/tmp/ezgif-4-2a0ec4f646.gif"/>
+</p>
+
+
+ 
  <p align="left">
  <a><img align="center" src="https://komarev.com/ghpvc/?username=ghantoos7&label=Profile%20views&color=0e75b6&style=flat" alt="ghantoos7"/>
  </br>
