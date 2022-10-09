@@ -38,7 +38,7 @@
 <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/></a>
 
 
-<h1 align="left">Connect with me <img src ="https://video-public.canva.com/VADqk7TlDAE/v/bfe21e9ce9.gif" width=50 height= 45 align="bottom"></h1>
+<h1 align="left">Connect with me <img src ="https://video-public.canva.com/VADqk7TlDAE/v/bfe21e9ce9.gif" width=55 height= 45 align="bottom"></h1>
 <p align="left">
 <a href="https://twitter.com/@georgio_3549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@georgio_3549" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/georgio-ghnatios-33a295222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/georgio-ghnatios-33a295222/" height="30" width="40" /></a>
