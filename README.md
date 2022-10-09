@@ -41,7 +41,7 @@
 <h1 align="left">Stats <img src ="https://video-public.canva.com/VAECoXFMuLI/v/26f0679e6a.gif" width=45 height= 45 align="bottom"><h1>
  <a><p align="left"> <img src="https://komarev.com/ghpvc/?username=ghantoos7&label=Profile%20views&color=0e75b6&style=flat" alt="ghantoos7" /> </p></a>
  <a><p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ghantoos7&show_icons=true&locale=en" alt="ghantoos7" /></p> </a>
- <a><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghantoos7&show_icons=true&locale=en&layout=compact" alt="ghantoos7" /></p></a></br></br></br>
+ <a><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghantoos7&show_icons=true&locale=en&layout=compact" alt="ghantoos7" /></p></a>
 
  
  
