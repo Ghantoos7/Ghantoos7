@@ -27,7 +27,7 @@
 
 <h3>Databases<h3>
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/></a>
- <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" /> </a>
+
  
 <h3>Tools<h3> 
  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="eclipse"/></a>
