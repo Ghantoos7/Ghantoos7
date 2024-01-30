@@ -1,17 +1,18 @@
 <h1 align="left">Hello, I'm Ghantoos <img src=https://uploads.scratch.mit.edu/get_image/gallery/1751058_200x130.png height = 120 width = 120 align="bottom" ></h1>
-<h4 align="left">A computer science student who's interested in data science </h4>
+<h4 align="left">A computer science student who's interested in data and teaching </h4>
 
 
 
 
-. <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/13/Enchanted_Diamond_Pickaxe.gif/revision/latest?cb=20201118111642" width=25 height= 25 align="top"> I’m currently working as **a coding instructor**
+. <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/13/Enchanted_Diamond_Pickaxe.gif/revision/latest?cb=20201118111642" width=25 height= 25 align="top"> I’m currently working as **a Data Engineer & Coding Instructor**
 
-. <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/50/Book_JE2_BE2.png/revision/latest?cb=20210427032255" width=25 height= 25 align="top"> I’m currently working on a **neat project**
+. <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/50/Book_JE2_BE2.png/revision/latest?cb=20210427032255" width=25 height= 25 align="top"> I’m currently working on a **NLP to SQL project**
 
-. <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/55/Enchanted_Book.gif/revision/latest?cb=20200428014446" width=25 height= 25 align="top"> Ask me about **anything algorithms**
+. <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/55/Enchanted_Book.gif/revision/latest?cb=20200428014446" width=25 height= 25 align="top"> Ask me about **anything data related**
 
 . <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/00/Map_%28item%29_JE1_BE1.png/revision/latest?cb=20200128083921" width=25 height= 25 align="top"> How to reach me **https://www.linkedin.com/in/georgio-ghnatios-33a295222/**
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 <h1 align="left">Languages & Tools <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c1/Enchanted_Diamond_Shovel.gif/revision/latest?cb=20201118111657" width=45 height= 45 align="bottom"> </h1>
@@ -30,6 +31,8 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 </p> 
 
+-----------
+
 <h3>Databases<h3>
  
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -37,6 +40,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+-----------
 
 <h3>FrameWorks & Libraries<h3>
 
@@ -48,7 +52,8 @@
  ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
- 
+ -----------
+
 <h3>Tools<h3> 
  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="eclipse"/></a>
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/></a>
@@ -58,7 +63,11 @@
  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intelli"/></a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/></a>
  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/></a>
+ 
+ ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/></a>
+
+-----------
 
 
 
