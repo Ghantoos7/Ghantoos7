@@ -1,7 +1,6 @@
-<img src=https://uploads.scratch.mit.edu/get_image/gallery/1751058_200x130.png height = 120 width = 120 align="bottom" >
-<h1 align="left">Hello there, I'm Ghantoos aka Georgio </h1>
-<h4 align="left">I'm a computer science student who's interested in data and teaching </h4>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=79FF97&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+there+I'm+Ghantoos+aka+Georgio;I'm+a+CS+student+who's+interested+in+Data+and+Teaching)](https://git.io/typing-svg)
+----
 
 
 
