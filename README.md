@@ -1,5 +1,6 @@
-<h1 align="left">Hello, I'm Ghantoos <img src=https://uploads.scratch.mit.edu/get_image/gallery/1751058_200x130.png height = 120 width = 120 align="bottom" ></h1>
-<h4 align="left">A computer science student who's interested in data and teaching </h4>
+<img src=https://uploads.scratch.mit.edu/get_image/gallery/1751058_200x130.png height = 120 width = 120 align="bottom" >
+<h1 align="left">Hello there, I'm Ghantoos aka Georgio </h1>
+<h4 align="left">I'm a computer science student who's interested in data and teaching </h4>
 
 
 
@@ -12,7 +13,9 @@
 
 . <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/00/Map_%28item%29_JE1_BE1.png/revision/latest?cb=20200128083921" width=25 height= 25 align="top"> How to reach me **https://www.linkedin.com/in/georgio-ghnatios-33a295222/**
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 
 <h1 align="left">Languages & Tools <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c1/Enchanted_Diamond_Shovel.gif/revision/latest?cb=20201118111657" width=45 height= 45 align="bottom"> </h1>
@@ -42,7 +45,7 @@
 
 -----------
 
-<h3>FrameWorks & Libraries<h3>
+<h3>Frameworks & Libraries<h3>
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -63,8 +66,7 @@
  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intelli"/></a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/></a>
  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/></a>
- 
- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+ <a href="https://figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="ubuntu"/></a>
 <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/></a>
 
 -----------
