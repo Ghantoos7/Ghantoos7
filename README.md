@@ -1,17 +1,20 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=79FF97&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+there+I'm+Ghantoos+aka+Georgio;I'm+a+CS+student+interested+in+Data+and+Teaching)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=79FF97&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+there+I'm+Ghantoos+aka+Georgio;I'm+a+CS+student+who's+interested+in+Data+and+Teaching)](https://git.io/typing-svg)
 ----
 
+<p align="center">
+  <a href="https://github.com/ghantoos7">
+    <img src="https://komarev.com/ghpvc/?username=ghantoos7&label=Profile%20views&color=0e75b6&style=flat" alt="ghantoos7"/>
+  </a>
+  <a href="https://user-badge.committers.top/lebanon_public/Ghantoos7">
+    <img src="https://user-badge.committers.top/lebanon_public/Ghantoos7.svg" alt="committers.top badge"/>
+  </a>
+</p>
 
-
-. <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/13/Enchanted_Diamond_Pickaxe.gif/revision/latest?cb=20201118111642" width=25 height= 25 align="top"> I’m currently working as **a Data Engineer & Coding Instructor**
-
-. <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/50/Book_JE2_BE2.png/revision/latest?cb=20210427032255" width=25 height= 25 align="top"> I’m currently working on a **NLP to SQL project**
-
-. <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/55/Enchanted_Book.gif/revision/latest?cb=20200428014446" width=25 height= 25 align="top"> Ask me about **anything data related**
-
-. <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/00/Map_%28item%29_JE1_BE1.png/revision/latest?cb=20200128083921" width=25 height= 25 align="top"> How to reach me **https://www.linkedin.com/in/georgio-ghnatios-33a295222/**
-
+- 🛠️ I’m currently working as a **Data Engineer & Coding Instructor**
+- 📚 Working on a **NLP to SQL project**
+- 💬 Ask me about **anything data-related**
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/georgio-ghnatios-33a295222/)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -19,9 +22,8 @@
 
 <h1 align="left">Languages & Tools <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c1/Enchanted_Diamond_Shovel.gif/revision/latest?cb=20201118111657" width=45 height= 45 align="bottom"> </h1>
 
-<h3>Languages<h3>
-<p>
- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=79FF97&random=false&width=450&lines=Languages)](https://git.io/typing-svg)
+
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -31,12 +33,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-</p> 
+
 
 -----------
 
-<h3>Databases<h3>
- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=79FF97&random=false&width=450&lines=Databases)](https://git.io/typing-svg) 
+
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -44,7 +46,7 @@
 
 -----------
 
-<h3>Frameworks & Libraries<h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=79FF97&random=false&width=450&lines=Frameworks+%26+Libraries)](https://git.io/typing-svg)
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -56,8 +58,9 @@
 
  -----------
 
-<h3>Tools<h3> 
- <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="eclipse"/></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=79FF97&random=false&width=450&lines=Tools)](https://git.io/typing-svg)
+
+<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="eclipse"/></a>
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/></a>
 <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white"/></a>
  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyternotebook"/></a>
