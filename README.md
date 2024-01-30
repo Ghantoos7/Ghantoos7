@@ -54,3 +54,6 @@
  <a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghantoos7&show_icons=true&locale=en&theme=midnight-purple&title_color=FF0000&amp&text_color=FFFFFF&amp&icon_color=FF0000&hide_border=true&count_private=true" alt="ghantoos7 " width = 460/></a>
 </p>
 
+[![committers.top badge](https://user-badge.committers.top/lebanon_private/Ghantoos7.svg)](https://user-badge.committers.top/lebanon_private/Ghantoos7)
+
+
