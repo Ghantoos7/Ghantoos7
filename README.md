@@ -19,10 +19,9 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
-
 <h1 align="left">Languages & Tools <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c1/Enchanted_Diamond_Shovel.gif/revision/latest?cb=20201118111657" width=45 height= 45 align="bottom"> </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=79FF97&random=false&width=450&lines=Languages)](https://git.io/typing-svg)
+![Static Badge](https://img.shields.io/badge/Languages-%23151515)
 
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -37,7 +36,7 @@
 
 -----------
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=79FF97&random=false&width=450&lines=Databases)](https://git.io/typing-svg) 
+![Static Badge](https://img.shields.io/badge/Databases-79FF97)
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -46,7 +45,7 @@
 
 -----------
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=79FF97&random=false&width=450&lines=Frameworks+%26+Libraries)](https://git.io/typing-svg)
+![Static Badge](https://img.shields.io/badge/Framewords%20%26%20Libraries-%23151515)
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -58,7 +57,7 @@
 
  -----------
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=79FF97&random=false&width=450&lines=Tools)](https://git.io/typing-svg)
+![Static Badge](https://img.shields.io/badge/Tools-79FF97)
 
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="eclipse"/></a>
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/></a>
@@ -88,10 +87,11 @@
  <p align="left">
  <a><img align="center" src="https://komarev.com/ghpvc/?username=ghantoos7&label=Profile%20views&color=0e75b6&style=flat" alt="ghantoos7"/>
  </br>
- <a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghantoos7&show_icons=true&locale=en&layout=compact&theme=midnight-purple&title_color=FF0000&amp&text_color=FFFFFF&amp&icon_color=FF0000&hide_border=true&count_private=true" alt="ghantoos7" /></a>
+   
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ghantoos7&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
  <a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghantoos7&show_icons=true&locale=en&theme=midnight-purple&title_color=FF0000&amp&text_color=FFFFFF&amp&icon_color=FF0000&hide_border=true&count_private=true" alt="ghantoos7 " width = 460/></a>
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/lebanon_private/Ghantoos7.svg)](https://user-badge.committers.top/lebanon_private/Ghantoos7)
 
 
