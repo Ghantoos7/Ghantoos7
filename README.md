@@ -7,8 +7,19 @@
     <img src="https://komarev.com/ghpvc/?username=ghantoos7&label=Profile%20views&color=0e75b6&style=flat" alt="ghantoos7"/>
   </a>
   <a href="https://user-badge.committers.top/lebanon_public/Ghantoos7">
-    <img src="https://user-badge.committers.top/lebanon_public/Ghantoos7.svg" alt="committers.top badge"/>
+    <img src="https://user-badge.committers.top/lebanon_public/Ghantoos7.svg" alt="RanK in Lebanon"/>
   </a>
+   <a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-apis.vercel.app%2Fgithub%2Fuser%2Fcommits%2Ftotal&query=%24.message
+"  alt="Your Badge" />
+    </a>
+</p>
+
+
+
+
+
+
 </p>
 
 - 🛠️ I’m currently working as a **Data Engineer & Coding Instructor**
