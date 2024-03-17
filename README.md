@@ -10,6 +10,7 @@
     <img src="https://user-badge.committers.top/lebanon_public/Ghantoos7.svg" alt="RanK in Lebanon"/>
   </a>
    <a>
+     <img alt="Endpoint Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgithub-apis-9e7a81551076.herokuapp.com%2Fgithub%2Fuser%2Fcommits%2Ftotal">
     </a>
 </p>
 
