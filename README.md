@@ -103,5 +103,8 @@
  <a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghantoos7&show_icons=true&locale=en&theme=midnight-purple&title_color=FF0000&amp&text_color=FFFFFF&amp&icon_color=FF0000&hide_border=true&count_private=true" alt="ghantoos7 " width = 460/></a>
 </p>
 
+[![Ghantoos github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ghantoos7&custom_title=Contribuation%20Graph&hide_border=true&theme=github-compact&line=79FF97&point=FFFFFF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 
