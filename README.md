@@ -57,6 +57,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Framewords%20%26%20Libraries-%23151515)
 
+<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /> </a>
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -95,12 +96,10 @@
  
  <h1 align="left">Stats <img src ="https://im2.ezgif.com/tmp/ezgif-2-64bcd96233.gif" width=45 height= 45 align="bottom"><h1>
  <p align="left">
- <a><img align="center" src="https://komarev.com/ghpvc/?username=ghantoos7&label=Profile%20views&color=0e75b6&style=flat" alt="ghantoos7"/>
  </br>
    
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ghantoos7&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
- <a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghantoos7&show_icons=true&locale=en&theme=midnight-purple&title_color=FF0000&amp&text_color=FFFFFF&amp&icon_color=FF0000&hide_border=true&count_private=true" alt="ghantoos7 " width = 460/></a>
 </p>
 
 [![Ghantoos github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ghantoos7&custom_title=Contribuation%20Graph&hide_border=true&theme=github-compact&line=79FF97&point=FFFFFF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
