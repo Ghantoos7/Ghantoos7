@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=79FF97&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+there+I'm+Ghantoos+aka+Georgio;I'm+a+CS+student+interested+in+Data+and+Teaching)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0066B3&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+there+I'm+Ghantoos+aka+Georgio;I'm+a+CS+student+interested+in+Data+and+Teaching)](https://git.io/typing-svg)
 
 ----
 
@@ -26,7 +26,7 @@
 - 💬 Ask me about **anything data-related**
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/georgio-ghnatios-33a295222/)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 <h1 align="left">Languages & Tools <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c1/Enchanted_Diamond_Shovel.gif/revision/latest?cb=20201118111657" width=45 height= 45 align="bottom"> </h1>
