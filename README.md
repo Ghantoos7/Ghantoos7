@@ -98,8 +98,7 @@
  <p align="left">
  </br>
    
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ghantoos7&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ghantoos7&show_icons=true&bg_color=00000000&)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 </p>
 
 [![Ghantoos github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ghantoos7&custom_title=Contribuation%20Graph&hide_border=true&theme=github-compact&line=79FF97&point=FFFFFF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
