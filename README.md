@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0066B3&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+there+I'm+Ghantoos+aka+Georgio;I'm+a+CS+student+interested+in+Data+and+Teaching)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2F80ED&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+there+I'm+Ghantoos+aka+Georgio;I'm+a+CS+student+interested+in+Data+and+Teaching)](https://git.io/typing-svg)
 
 ----
 
@@ -98,10 +98,15 @@
  <p align="left">
  </br>
    
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ghantoos7&show_icons=true&bg_color=00000000&)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Ghantoos7&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=2F80ED&icon_color=2F80ED&text_color=808080">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghantoos7&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,php,blade&title_color=2F80ED&icon_color=2F80ED&text_color=808080">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Ghantoos7&hide_border=true&background=00000000&fire=2F80ED&ring=2F80ED&currStreakNum=2F80ED&sideNums=2F80ED&dates=2F80ED&currStreakLabel=2F80ED&sideLabels=808080">
+  <br>
+
 </p>
 
-[![Ghantoos github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ghantoos7&custom_title=Contribuation%20Graph&hide_border=true&theme=github-compact&line=79FF97&point=FFFFFF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ghantoos github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ghantoos7&custom_title=Contribuation%20Graph&hide_border=true&theme=github-compact&line=2F80ED&point=808080&area=true&area_color=2F80ED)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
