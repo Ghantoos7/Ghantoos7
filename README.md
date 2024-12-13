@@ -22,7 +22,7 @@
 </p>
 
 - 🛠️ I’m currently working as a **Data Engineer & Coding Instructor**
-- 📚 Working on a **NLP to SQL project**
+- 📚 Working on a **Nothing fr**
 - 💬 Ask me about **anything data-related**
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/georgio-ghnatios-33a295222/)
 
