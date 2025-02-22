@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2F80ED&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+there+I'm+Ghantoos+aka+Georgio;I'm+a+CS+student+interested+in+Data+and+Teaching)](https://git.io/typing-svg)
+
+<p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=64&letterSpacing=small&pause=1000&color=DB0A5B&center=true&vCenter=true&width=1000&height=100&lines=Hello+im+ghantoos+aka+georgio;software+engineer+interested+in+all+tech+" alt="Typing SVG" /></a>
 
 ----
 
@@ -12,21 +14,26 @@
    <a>
      <img alt="Endpoint Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgithub-apis-9e7a81551076.herokuapp.com%2Fgithub%2Fuser%2Fcommits%2Ftotal">
     </a>
+
+
+
+
 </p>
 
 
 
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?theme=dracula&type=horizontal&border=true" alt="Readme Quotes"/>
+  </a>
+</p>
 
 
 
 </p>
 
-- 🛠️ I’m currently working as a **Data Engineer & Coding Instructor**
-- 📚 Working on a **Nothing fr**
-- 💬 Ask me about **anything data-related**
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/georgio-ghnatios-33a295222/)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 
 <h1 align="left">Languages & Tools <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c1/Enchanted_Diamond_Shovel.gif/revision/latest?cb=20201118111657" width=45 height= 45 align="bottom"> </h1>
