@@ -23,10 +23,11 @@
 
 
 <p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?theme=dracula&type=horizontal&border=true" alt="Readme Quotes"/>
+  <a href="https://github-readme-quotes-mu.vercel.app">
+    <img src="https://github-readme-quotes-mu.vercel.app/api/quote-component?bg=1e1e1e&color=ffffff&border=true&border_color=ff5733" alt="GitHub Readme Quotes"/>
   </a>
 </p>
+
 
 
 
