@@ -22,11 +22,9 @@
 
 
 
-<p align="center">
-  <a href="https://github-readme-quotes-gq55nx771-ghantoos7s-projects.vercel.app">
-    <img src="https://github-readme-quotes-gq55nx771-ghantoos7s-projects.vercel.app/api/quote-component?bg=000000&color=ffcc00&author_color=ff5733&border=true&border_color=00ffff&author_pos=right&size=50px&author_size=35px" alt="GitHub Readme Quotes"/>
-  </a>
-</p>
+![GitHub Readme Quotes](https://github-readme-quotes-gq55nx771-ghantoos7s-projects.vercel.app/api/quote-component?cacheBust=123)
+
+
 
 
 
