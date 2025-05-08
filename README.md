@@ -17,7 +17,7 @@
 
 ## 🧠 Quote of the Day
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=Algolia&font=Georgia&quoteFont=Montserrat" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
 </p>
 
 ---
