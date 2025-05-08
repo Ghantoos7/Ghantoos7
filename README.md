@@ -126,5 +126,6 @@
 [![Ghantoos github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ghantoos7&custom_title=Contribuation%20Graph&hide_border=true&theme=github-compact&line=2F80ED&point=808080&area=true&area_color=2F80ED)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/ghnatios1?theme=dark&font=Bebas%20Neue&ext=heatmap)
 
 
